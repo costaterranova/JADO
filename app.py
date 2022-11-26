@@ -10,7 +10,7 @@ app = Flask(__name__) # holds the name of the current Python module
 def hello():
     return render_template('index.html')
 
-@app.route('/jado') 
+@app.route('/yado') 
 def hello2():
     activity= activity_finder()
     time = time_generator()
