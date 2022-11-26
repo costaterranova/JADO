@@ -1,6 +1,6 @@
 spacy == 3.4.2
-random
 transformers == 4.21.1
 torch 
 torchvision 
 torchaudio
+flask == 2.2.2
