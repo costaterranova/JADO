@@ -12,7 +12,7 @@ button.addEventListener("click",
     function(){setTimeout(function(){clickBehavior()}, 150);})
 
 function clickBehavior() {
-    window.location='/jado';}
+    window.location='/yado';}
 
 
 // function put_object(obj) {
